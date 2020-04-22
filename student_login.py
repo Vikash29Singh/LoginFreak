@@ -8,8 +8,8 @@ import urllib.request
 import requests
 import time
 
-usernameStr = '1847213'
-passwordStr = '43501042'
+usernameStr = 'user ID'
+passwordStr = 'Password'
 browser = webdriver.Chrome()
 browser.get(('https://kp.christuniversity.in/KnowledgePro/StudentLogin.do'))
 
